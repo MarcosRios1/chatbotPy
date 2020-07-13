@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Marcos/dev/chatBot/model.tflearn"
+all_model_checkpoint_paths: "/Users/Marcos/dev/chatBot/model.tflearn"
